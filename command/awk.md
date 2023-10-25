@@ -623,7 +623,7 @@ Array[2]="kai"
 
 ```shell
 Array["first"]="www"
-Array"[last"]="name"
+Array["last"]="name"
 Array["birth"]="1987"
 ```
 
